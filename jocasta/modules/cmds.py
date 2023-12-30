@@ -31,8 +31,8 @@ async def start_cmd(message, lang):
         await bot.send_chat_action(chat_id=message.chat.id, action='typing')
         buttons = InlineKeyboardMarkup()
         buttons.add(
-        InlineKeyboardButton('Click To Buy', url='https://t.me/r0ld3x'),
-        InlineKeyboardButton('Support Channel', url='https://t.me/roldexverse')
+        InlineKeyboardButton('Click To Buy', url='https://t.me/EscaliBud'),
+        InlineKeyboardButton('Support Channel', url='https://t.me/InfinityHackersKE')
     )
         text = """
 <b>≛ Premium Plans</b>:-
@@ -41,7 +41,7 @@ async def start_cmd(message, lang):
 <b>20$-» 120 Days</b>
 <b>25$-» 150 Days</b>
 
-Dm </code>@r0ld3x</code> If Intrested.
+Dm </code>@EscaliBud</code> If Intrested.
 
 <b>Payment Methods</b>-» <b>Airtm, CryptoCurrency, Upi, etc.</b>
 """
@@ -66,7 +66,7 @@ async def get_cmds_func(message, strings):
     buttons.add(
         InlineKeyboardButton(strings["close"], callback_data="close"),
         # InlineKeyboardButton(
-        #     strings["btn_group"], url="https://t.me/DaisySupport_Official"
+        #     strings["btn_group"], url="https://t.me/InfinityHack3rs"
         # ),
     )
     return buttons
