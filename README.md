@@ -9,7 +9,7 @@ Put here.
 ## Gen Session
 Run ```session_gen.py```
 ## Install requirements
-```pip install -r requirements.txt```
+```pip3 install -r requirements.txt```
 ## Run Bot
 ```python3 -m jocasta```
 
