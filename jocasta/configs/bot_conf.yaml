@@ -1,10 +1,10 @@
 
-API_ID: 12345678 #https://my.telegram.org/
-API_HASH: ''  #https://my.telegram.org/
+API_ID: 26949669 #https://my.telegram.org/
+API_HASH: '4f1a7b9ea16310ecbabe42434da7a155'  #https://my.telegram.org/
 
-BOT_TOKEN: '2117071565:' #@botfather
+BOT_TOKEN: '6926114519:AAGDr4me2q7oUbiSZEsiSa8jXA5LCO52mt8' #@botfather
 
-STRING_SESSION: '' #python3 session_gen.py
+STRING_SESSION: 'BAGbOCUAgij4xQ7Z9JRfpPM6RRt0ogUdcVY0XAyGa9hg8W-PSz0994treTMO9yDFYE2H1MXSPnqEmjbaGayXd3_TR265Pnd914tixHhGTU82kUTqSbmLOP00n6IdQFK0PrIrAzWx_hkkCY6GFQiJ_0inF9eX08RX9YpJPmIOmQlHgzkGoxjMO1eT7ZsGcst_22rJ3TFQZlWuqEMBgdt4RgbiTPqwoWrcko1KZSrqiu_eU1SNAnx5qd-5PXO9y0ttp9g3L69KfRkZXyRKNSPpbYktoGnUk68aatRLtf8Ixd1AI_zuvKIm6g5-zq227NCnnV7s1qDeNOIsPHHmyqdgkjO4KUdJpAAAAAFpYYPDAA' #python3 session_gen.py
 
 MONGO_URL: ''
 MONGO_DB: 'bot' # leave this as it is or change from services/mongo.py this change here. 
