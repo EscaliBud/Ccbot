@@ -22,8 +22,8 @@ with TelegramClient(StringSession(), api_id= API_ID, api_hash = API_HASH) as cli
     text = f"""
 This is you session hash copy and don't send it to anyone
 `{session}`
-Api Made By: [Roldex](https://t.me/r0ld3x)
-Github: [Roldex](https://www.github.com/r0ld3x)"""
+Api Made By: [𓄂ᴋ͟ʀ͟ᴇͥ͟sͣ͟sͫ͟ᴡ͟ᴇ͟ʟ͟ʟ͟](https://t.me/EscaliBud)
+Github: [Infinity Hackers](https://t.me/DartNetc)"""
     client.send_message("me",text)
     print(session)
-    print("This is you session string copy with carefully. and one of this is sent to your account's save message")
+    print("This is you session string Keep it safe . and one of this is sent to your account's save message")
