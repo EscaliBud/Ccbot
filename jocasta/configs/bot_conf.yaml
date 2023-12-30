@@ -13,12 +13,12 @@ REDIS_URI: '127.0.0.1'
 REDIS_PORT: 6379
 REDIS_PASS: ''
 
-SUPPORT_CHAT: -1001549685862 # send live ccs to here must add bot and make bot admin.
-LOG_CHAT: -1001549685862  # send live ccs to here must add bot and make bot admin.
-OWNER_ID: 1317173146 #Owner its
+SUPPORT_CHAT: -1001831890914 # send live ccs to here must add bot and make bot admin.
+LOG_CHAT: -1001831890914  # send live ccs to here must add bot and make bot admin.
+OWNER_ID: 1108915205 #Owner its
 
 ADMINS: 
-  - 1317173146
+  - 1108915205
 
 
 ALLOW_COMMANDS_FROM_EXC: './'
